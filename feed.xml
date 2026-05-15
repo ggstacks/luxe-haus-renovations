@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luxe Haus Renovations - Home Remodeling News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest home remodeling news and tips from Luxe Haus Renovations in Plano, TX.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2026 15:17:31 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>office@myluxehaus.com (Luxe Haus Renovations)</managingEditor>
+    <webMaster>office@myluxehaus.com (Luxe Haus Renovations)</webMaster>
+    
+  </channel>
+</rss>
