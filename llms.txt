@@ -1,0 +1,46 @@
+# Kitchen Renovations in Plano | Luxe Haus Renovations
+
+> Kitchen Renovations information for Plano, featuring Luxe Haus Renovations.
+
+- Business: Luxe Haus Renovations
+- Category: General Contractor
+- Address: 6275 W Plano Pkwy Suite 500 #544, Plano, TX, 75093
+- Phone: +1-469-797-0644
+- Email: office@myluxehaus.com
+- Website: https://myluxehaus.com/
+- Service areas: Plano, TX, Addison, TX, Allen, TX, Carrollton, TX, Colleyville, TX, Dallas, TX, Flower Mound, TX, Frisco, TX, Garland, TX, Highland Park, TX, Little Elm, TX, Murphy, TX, Rowlett, TX, Sachse, TX, Southlake, TX, The Colony, TX, Wylie, TX
+
+## Main pages
+- [Home](https://{username}.github.io/{repo}/index.html)
+- [About](https://{username}.github.io/{repo}/about-us.html)
+- [Full text of every page](https://{username}.github.io/{repo}/llms-full.txt)
+- [XML sitemap](https://{username}.github.io/{repo}/sitemap.xml)
+
+## Renovations
+- [Renovations](https://{username}.github.io/{repo}/renovations.html): High-end renovation services including kitchen and bathroom upgrades.
+- [Kitchen Renovations](https://{username}.github.io/{repo}/kitchen-renovations.html): kitchen renovations
+- [Bathroom Renovations](https://{username}.github.io/{repo}/bathroom-renovations.html): bathroom renovations
+- [Home Remodeling](https://{username}.github.io/{repo}/home-remodeling.html): home remodeling
+- [Shower Remodeling](https://{username}.github.io/{repo}/shower-remodeling.html): shower remodeling
+
+## Construction Services
+- [Construction Services](https://{username}.github.io/{repo}/construction-services.html): Full-service construction management and general contracting.
+- [General Contractor Services](https://{username}.github.io/{repo}/general-contractor.html): general contractor
+- [Construction Management](https://{username}.github.io/{repo}/construction-management.html): construction management
+- [Building Materials Supply](https://{username}.github.io/{repo}/building-materials.html): building materials
+- [Plumbing Services](https://{username}.github.io/{repo}/plumbing-services.html): plumbing
+
+## Local Services
+- [Local Services](https://{username}.github.io/{repo}/local-services.html): Community-focused services in and around Plano, TX.
+- [Services in Plano](https://{username}.github.io/{repo}/services-in-plano.html): services in Plano
+- [Nearby City Services](https://{username}.github.io/{repo}/nearby-city-services.html): services near Plano
+
+## Optional
+- [Luxe Haus Renovations website](https://myluxehaus.com/)
+- [Google Maps](https://www.google.com/maps?cid=12676684858279818041)
+- [Facebook](https://www.facebook.com/luxehausrenovations)
+- [Instagram](https://www.instagram.com/luxehausrenovations)
+- [Linkedin](https://www.linkedin.com/company/luxe-haus-renovations/)
+- [Youtube](https://www.youtube.com/@myluxehaus)
+- [Twitter](https://x.com/myluxehaus)
+- [Pinterest](https://www.pinterest.com/myluxehaus/)
